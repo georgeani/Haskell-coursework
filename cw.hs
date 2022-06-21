@@ -1,5 +1,3 @@
---Student Number: B915247
-
 ---- Part 1 ----
 
 --printLine prints the symbols in a straight string
